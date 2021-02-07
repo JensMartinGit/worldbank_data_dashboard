@@ -7,7 +7,7 @@ from data_scripts.worldbank_data import create_figures
 @app.route('/index')
 def index():
 
-    figures = return_figures()
+    figures = create_figures()
 
     # plot ids for the html id tag
     ids = ['figure-{}'.format(i) for i, _ in enumerate(figures)]
