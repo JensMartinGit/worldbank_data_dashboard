@@ -1,3 +1,6 @@
 .ipynb_checkpoints/
 Jupyter/
 co2env/
+data_scripts/__pycache__/
+co2app/__pycache__/
+

@@ -1,7 +1,7 @@
-from worldbankapp import app
+from co2app import app
 import json, plotly
 from flask import render_template
-from wrangling_scripts.wrangle_data import return_figures
+from data_scripts.worldbank_data import create_figures
 
 @app.route('/')
 @app.route('/index')
