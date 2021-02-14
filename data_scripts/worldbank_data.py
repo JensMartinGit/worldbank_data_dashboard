@@ -76,7 +76,7 @@ def create_figures():
             )
         )
         
-    layout_2 = {'title' : 'Developement of CO2 Emissions per Capita from 1990 to 2016', 
+    layout_2 = {'title' : 'Developement of Total CO2 Emissions from 1990 to 2016', 
                 'xaxis' : {'title' : 'Year'}, 
                 'yaxis' : {'title' : 'CO2 emissions (kt)'}
                }
