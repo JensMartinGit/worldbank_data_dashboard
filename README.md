@@ -8,7 +8,7 @@ The web app was built with **Flask** and **Bootstrap** and displays data visuali
 
 ## 1. Usage
 
-The web app is available (here)[https://co-emissions.herokuapp.com/].
+The web app is available [here](https://co-emissions.herokuapp.com/).
 
 ![Web App Screenshot](/pics/co_dashboard.png)
 
